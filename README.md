@@ -20,7 +20,7 @@ git clone https://github.com/Sahiladevi/Autism_Catatonia_Treatment_Effectiveness
 
 ### 2. Navigate to the cloned directory
 
-Change your current directory to the cloned repository's directory (health_track)
+Change your current directory to the cloned repository's directory
 
 ```bash
 cd Autism_Catatonia_Treatment_Effectiveness
@@ -68,7 +68,7 @@ pip install ipykernel
 ### 6. Register the Environment as a Jupyter Kernel
 
 ```bash
-python -m ipykernel install --user --name=venv --display-name "Python (health_track)"
+python -m ipykernel install --user --name=venv --display-name "Python (venv)"
 ```
 This step lets you select this environment inside Jupyter.
 
