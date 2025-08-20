@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 
 # Streamlit Page Title
-st.title("Medication Treatment Analysis Dashboard")
+st.title("Autism & Catatonia Treatment Analysis Dashboard")
 
 # Upload file
 uploaded_file = st.file_uploader("Upload your data file", type=["csv", "xlsx"])
