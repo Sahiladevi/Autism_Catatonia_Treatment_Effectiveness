@@ -68,7 +68,7 @@ pip install ipykernel
 ### 6. Register the Environment as a Jupyter Kernel
 
 ```bash
-python -m ipykernel install --user --name=venv --display-name "Python (venv)"
+python -m ipykernel install --user --name=venv --display-name "Python (treatment_effectiveness)"
 ```
 This step lets you select this environment inside Jupyter.
 
@@ -97,7 +97,6 @@ seaborn
 plotly
 jupyter
 streamlit
-Pillow
 
 ```
 
